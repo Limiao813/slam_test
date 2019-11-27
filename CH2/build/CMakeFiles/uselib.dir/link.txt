@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/uselib.dir/uselib.cpp.o  -o uselib -rdynamic libword_shared.so -Wl,-rpath,/home/chaosli/slambook_test/CH2/build 

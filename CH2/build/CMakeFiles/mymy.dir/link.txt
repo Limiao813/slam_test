@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/mymy.dir/helloSLAM.cpp.o  -o mymy -rdynamic 

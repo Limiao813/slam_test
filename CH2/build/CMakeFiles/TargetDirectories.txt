@@ -1,0 +1,6 @@
+/home/chaosli/slambook_test/CH2/build/CMakeFiles/edit_cache.dir
+/home/chaosli/slambook_test/CH2/build/CMakeFiles/rebuild_cache.dir
+/home/chaosli/slambook_test/CH2/build/CMakeFiles/mymy.dir
+/home/chaosli/slambook_test/CH2/build/CMakeFiles/word.dir
+/home/chaosli/slambook_test/CH2/build/CMakeFiles/word_shared.dir
+/home/chaosli/slambook_test/CH2/build/CMakeFiles/uselib.dir
